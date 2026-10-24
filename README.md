@@ -52,13 +52,21 @@ Experience the live website: [KateVR](https://sertavr.github.io/layout_KateVR/)
 ## Technologies Used
 
 **HTML5** – Provides the semantic structure of the website.
+
 **SCSS (Sass)** – Used for modular and maintainable styling with advanced CSS features.
+
 **JavaScript (ES6+)** – Adds interactivity and enhances the user experience through dynamic UI behavior.
+
 **Swiper.js** – Powers responsive, touch-friendly sliders and carousels.
+
 **Vite** – Provides a fast development environment and optimized production builds.
+
 **Stylelint & Stylelint-SCSS** – Ensure consistent styling standards and code quality.
+
 **ESLint** – Helps maintain clean and reliable JavaScript code.
+
 **Prettier** – Automatically formats code for better readability and consistency.
+
 **HTMLHint (LintHTML)** – Validates HTML structure and enforces markup best practices.
 
 
